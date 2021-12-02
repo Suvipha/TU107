@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# RESUME
 
-You can use the [editor on GitHub](https://github.com/Suvipha/TU107/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ <img align="left" width="300" height="300" src="https://user-images.githubusercontent.com/95448811/144513973-edb74244-3011-49db-8386-59dbe10734c4.JPG">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## PERSONAL INFORMATION
+NAME : SUVIPHA CHAROENSUKANUN
 
-### Markdown
+NICKNAME : MAI
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+DATH OF BIRD : 27 FEBRUARY 2003
 
-```markdown
-Syntax highlighted code block
+CITIZEN : THAI
 
-# Header 1
-## Header 2
-### Header 3
+GENDER : FEMALE
 
-- Bulleted
-- List
+## CONTACT
+TEL : 0891789101
 
-1. Numbered
-2. List
+MAIL : suvipha8@gmail.com
 
-**Bold** and _Italic_ and `Code` text
+## EDUCATION
+JUNIOR HIGH SCHOOL : CHALERMPRAKIAT 60 PANSA SCHOOL
 
-[Link](url) and ![Image](src)
-```
+HIGH SCHOOL : SUANKULARBWITTAYALAI RANGSIT SCHOOL
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+UNIVERSITY : THAMMASAT UNIVERSITY (COLLAGE OF INTERDISCIPLINARY STUDIES, MAJIOR OF DATA SCIENCE AND INNOVATION)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Suvipha/TU107/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
